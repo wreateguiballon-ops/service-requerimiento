@@ -1,0 +1,10 @@
+pe\gob\sat\servicio\general\dto\request\DatosTablasRequestDto$DatosTablasRequestDtoBuilder.class
+pe\gob\sat\servicio\general\repository\GeneralRepository.class
+pe\gob\sat\servicio\general\repository\GeneralRepositoryImpl.class
+pe\gob\sat\servicio\general\ServicioGeneralApplication.class
+pe\gob\sat\servicio\general\controller\GeneralController.class
+pe\gob\sat\servicio\general\service\GeneralServiceImpl.class
+pe\gob\sat\servicio\general\dto\response\DatosTablasResponseDto.class
+pe\gob\sat\servicio\general\service\GeneralService.class
+pe\gob\sat\servicio\general\dto\request\DatosTablasRequestDto.class
+pe\gob\sat\servicio\general\dto\response\DatosTablasResponseDto$DatosTablasResponseDtoBuilder.class
