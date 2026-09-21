@@ -1,0 +1,12 @@
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\controller\PersonaController.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Request\PersonaCategoriaRequestDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Request\PersonaRequestDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Request\UnidadOrganicaRequestDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Response\PersonaCategoriaResponseDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Response\PersonaResponseDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\dto\Response\UnidadOrganicaResponseDto.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\repository\PersonaRepository.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\repository\PersonaRepositoryImpl.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\service\PersonaService.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\service\PersonaServiceImpl.java
+E:\Workspace\GestionReq\servicio-persona\src\main\java\pe\gob\sat\servicio\persona\ServicioPersonaApplication.java
